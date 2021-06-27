@@ -2,4 +2,4 @@
  
  
  A basic Calendar
- showing years , months and list of holidays 
+ For showing year , months and list of holidays 
