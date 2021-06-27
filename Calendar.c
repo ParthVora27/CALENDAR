@@ -10,7 +10,7 @@
  int getmonth(int p,int q)
 {
                    int a,b,c;
-                   printf("\n \   Sun   Mon   Tue   Wed   Thu   Fri   Sat\n");
+                   printf("\n Sun   Mon   Tue   Wed   Thu   Fri   Sat\n");
                    for(a=0;a<=q;a++)
                    if(a>=q)
                    {
